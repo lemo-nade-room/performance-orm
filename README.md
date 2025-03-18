@@ -57,7 +57,7 @@ time ./performance-orm
 
 #### 結果スナップショット
 
-3時間以上かけても終わらない
+4時間以上かけても終わらない
 
 ### TypeScript Bun
 
